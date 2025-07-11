@@ -20,9 +20,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](emailto:sauloribeiro037@gmail.com)
 
 ### 🚀 Tecnologias que estou estudando:
-
+<div style="display in line_block"><br>
 <img align="center" alt height="40" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
-<img align="center" alt height="40" widht= "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
-                    
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img align="center" alt height="40" widht= "40" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" />
+<img align="center" alt height="40" widht= "40" src="https://mlohrktvfr9b.i.optimole.com/cb:CrDG.16d74/w:702/h:702/q:75/f:best/https://nerdstickers.com.br/wp-content/uploads/2022/10/products-147-GIT-ICON-1.png" />
+</div>
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
