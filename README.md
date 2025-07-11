@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-ribeiro-a89023374?utm_source=share&utm_cam-paign=share_via&utm_content=profile&utm_medium=ios_app)
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sauloribeiro037@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](emailto:sauloribeiro037@gmail.com)
 
 
 
