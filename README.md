@@ -20,9 +20,6 @@
 
 
 ### 🚀 Tecnologias que estou estudando:
-
-
-
 <div style="display in line_block"><br>
 <img align="center" alt height="40" widht= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
 <img align="center" alt height="40" widht= "40" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" />
