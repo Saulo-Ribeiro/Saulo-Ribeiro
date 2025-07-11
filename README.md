@@ -14,8 +14,9 @@
 ### 📫 Entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saulo-ribeiro-a89023374?utm_source=share&utm_cam-paign=share_via&utm_content=profile&utm_medium=ios_app)
+  
+[sauloribeiro037@gmail.com](mailto:sauloribeiro037@gmail.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sauloribeiro037@gmail.com?subject=Olá%20do%20GitHub)
 
 
 ### 🚀 Tecnologias que estou estudando:
